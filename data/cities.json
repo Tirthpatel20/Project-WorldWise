@@ -11,30 +11,6 @@
         "lng": "85.19210815429689"
       },
       "id": 4
-    },
-    {
-      "cityName": "Patratu",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2025-08-12T14:08:46.563Z",
-      "notes": "",
-      "position": {
-        "lat": "23.579091596182877",
-        "lng": "85.37612915039062"
-      },
-      "id": 5
-    },
-    {
-      "cityName": "Newark",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2025-08-12T14:36:59.458Z",
-      "notes": "",
-      "position": {
-        "lat": "40.737892702684064",
-        "lng": "-74.20440673828126"
-      },
-      "id": 6
     }
   ]
 }
