@@ -1,16 +1,3 @@
 {
-  "cities": [
-    {
-      "cityName": "Ratu",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2025-08-12T13:54:03.687Z",
-      "notes": "test",
-      "position": {
-        "lat": "23.431749041656527",
-        "lng": "85.19210815429689"
-      },
-      "id": 4
-    }
-  ]
+  "cities": []
 }
